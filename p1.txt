@@ -6,3 +6,13 @@ cse
 
 
 new branch is created
+<<<<<<< HEAD
+=======
+
+new change in user 1
+
+new change
+
+new change in user2
+new change for stash save
+>>>>>>> 2fdfba2 (new changes)
