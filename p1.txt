@@ -1,17 +1,1 @@
-sushant
-banglore
-acharya
-sec d 
-cse
-
-<<<<<<< Updated upstream
-=======
-
-new branch is created
-
-new change in user 1
-
-new change
-
-new change in user2
-new change for stash save
+new line testing
